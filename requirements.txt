@@ -1,0 +1,4 @@
+Streamlit
+io
+bgrem
+PIL(pillow)
