@@ -1,4 +1,3 @@
-Streamlit
-io
-bgrem
-Pillow
+rembg==1.0.28
+Pillow==8.2.0
+streamlit==1.15.0
